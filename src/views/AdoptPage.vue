@@ -64,8 +64,8 @@
             deskripsi: "Molly adalah kucing jinak yang suka tidur di tempat hangat dan mudah beradaptasi dengan orang baru.",
             galeri:[
                new URL("/src/assets/molly.png", import.meta.url).href,
-               new URL("/src/assets/molly2.png", import.meta.url).href,
-               new URL("/src/assets/molly3.png", import.meta.url).href,
+               new URL("/src/assets/molly.png", import.meta.url).href,
+               new URL("/src/assets/molly.png", import.meta.url).href,
             ]
           },
           {
@@ -80,8 +80,8 @@
             deskripsi: "Ciyo aktif dan suka bermain bola kecil, cocok untuk keluarga dengan anak kecil.",
             galeri:[
                new URL("/assets/ciyo.png", import.meta.url).href,
-               new URL("/assets/ciyo2.png", import.meta.url).href,
-               new URL("/assets/ciyo3.png", import.meta.url).href,
+               new URL("/assets/ciyo.png", import.meta.url).href,
+               new URL("/assets/ciyo.png", import.meta.url).href,
             ]
           },
           {
@@ -96,8 +96,8 @@
             deskripsi: "Miko lucu dan manja, suka duduk di pangkuan.",
             galeri:[
                new URL("/src/assets/miko.png", import.meta.url).href,
-               new URL("/src/assets/miko2.png", import.meta.url).href,
-               new URL("/src/assets/miko3.png", import.meta.url).href,
+               new URL("/src/assets/miko.png", import.meta.url).href,
+               new URL("/src/assets/miko.png", import.meta.url).href,
             ]
           },
           {
@@ -112,8 +112,8 @@
             deskripsi: "Loly lembut dan penurut, sangat cocok untuk kamu yang ingin peliharaan tenang.",
             galeri:[
               new URL("/src/assets/loly.png", import.meta.url).href,
-              new URL("/src/assets/loly2.png", import.meta.url).href,
-              new URL("/src/assets/loly3.png", import.meta.url).href,
+              new URL("/src/assets/loly.png", import.meta.url).href,
+              new URL("/src/assets/loly.png", import.meta.url).href,
             ] 
           },
           {
@@ -128,8 +128,8 @@
             deskripsi: "Telon suka bermain dan mudah akrab dengan kucing lain.",
             galeri:[
               new URL("/src/assets/telon.png", import.meta.url).href,
-              new URL("/src/assets/telon2.png", import.meta.url).href,
-              new URL("/src/assets/telon3.png", import.meta.url).href,
+              new URL("/src/assets/telon.png", import.meta.url).href,
+              new URL("/src/assets/telon.png", import.meta.url).href,
             ] 
           },
           {
@@ -144,8 +144,8 @@
             deskripsi: "Miow suka bermain dan mudah akrab dengan kucing lain.",
             galeri:[
                new URL("/src/assets/miow.png", import.meta.url).href,
-               new URL("/src/assets/miow2.png", import.meta.url).href,
-               new URL("/src/assets/miow3.png", import.meta.url).href,
+               new URL("/src/assets/miow.png", import.meta.url).href,
+               new URL("/src/assets/miow.png", import.meta.url).href,
             ]
           },
           {
@@ -160,8 +160,8 @@
             deskripsi: "Cilow suka bermain dan mudah akrab dengan kucing lain.",
             galeri:[
               new URL("/src/assets/cilow.png", import.meta.url).href,
-              new URL("/src/assets/cilow2.png", import.meta.url).href,
-              new URL("/src/assets/cilow3.png", import.meta.url).href,
+              new URL("/src/assets/cilow.png", import.meta.url).href,
+              new URL("/src/assets/cilow.png", import.meta.url).href,
             ] 
           },
           {
@@ -176,8 +176,8 @@
             deskripsi: "Bubul cerdas dan mudah dilatih, cocok untuk lingkungan apartemen.",
             galeri:[
               new URL("/src/assets/bubul.png", import.meta.url).href,
-              new URL("/src/assets/bubul2.png", import.meta.url).href,
-              new URL("/src/assets/bubul3.png", import.meta.url).href,
+              new URL("/src/assets/bubul.png", import.meta.url).href,
+              new URL("/src/assets/bubul.png", import.meta.url).href,
             ] 
           },
         ],
@@ -401,4 +401,5 @@
       padding: 15px 20px;
     }
   }
+
   </style>
