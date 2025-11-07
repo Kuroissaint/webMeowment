@@ -32,11 +32,8 @@ d. Halaman Detail Laporan
 **2. Adopsi Kucing**
 
 a. Tampilan Daftar Kucing Adopsi (AdoptPage.vue)
-
-    Halaman ini berfungsi sebagai direktori utama adopsi dan berhasil menampilkan data kucing dalam format card.
-
-    Daftar Kucing:
-    setiap kucing ditampilkan dalam card yang menyajikan informasi foto kucing, nama, umur, dan lokasi.
+Halaman ini berfungsi sebagai direktori utama adopsi dan berhasil menampilkan data kucing dalam format card.
+- Daftar Kucing : setiap kucing ditampilkan dalam card yang menyajikan informasi foto kucing, nama, umur, dan lokasi.
 
     Tombol Ajukan kucing untuk adopsi:
     di bagian header sudah berfungsi, dan ketika diklik pengguna akan diarahkan ke formulir pendaftaran kucing yang berisi data-data yang harus diisi.
