@@ -1,4 +1,11 @@
-## meowment-website
+## Meowment-Website
+
+**Kelompok 22 Ilmu Komputer 2024**
+
+- Athar Ghaisan herman
+- Fauzia Rahma Nisa
+- Nafis Asyakir Anjar
+- Putri Ramadhani
 
 **1. Rescue**
 
