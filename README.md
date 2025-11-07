@@ -1,6 +1,6 @@
 # meowment-website
 
-**1. RESCUE**
+**1. Rescue**
 
 a. Tampilan Daftar Laporan
 
