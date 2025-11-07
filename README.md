@@ -97,8 +97,10 @@ Informasi Lengkap:
 
 d. My Search Page - Pantau Status
 
-Dashboard Pribadi: Pengguna dapat memantau laporan kucing hilang mereka
+Dashboard Pribadi: Pengguna dapat memantau laporan kucing hilang mereka.
+
 Status Timeline: Visualisasi progress pencarian dengan 4 tahapan:
+
  - Dilaporkan - Laporan telah diterima sistem
  - Ditemukan - Ada laporan penemuan yang match
  - Dirawat - Kucing sedang dalam perawatan
