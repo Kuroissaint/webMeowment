@@ -1,6 +1,6 @@
 # meowment-website
 
-**1. RESCUE**
+**1. Rescue**
 
 a. Tampilan Daftar Laporan
 
@@ -39,6 +39,7 @@ d. Halaman Detail Laporan
 **2. Adopsi Kucing**
 
 a. Tampilan Daftar Kucing Adopsi (AdoptPage.vue)
+
 Halaman ini berfungsi sebagai direktori utama adopsi dan berhasil menampilkan data kucing dalam format card.
 - Daftar Kucing : setiap kucing ditampilkan dalam card yang menyajikan informasi foto kucing, nama, umur, dan lokasi.
 - Tombol Ajukan kucing untuk adopsi : di bagian header sudah berfungsi, dan ketika diklik pengguna akan diarahkan ke formulir pendaftaran kucing yang berisi data-data yang harus diisi.
@@ -48,10 +49,10 @@ Halaman ini berfungsi sebagai direktori utama adopsi dan berhasil menampilkan da
 <img width="1905" height="949" alt="image" src="https://github.com/user-attachments/assets/1bf362b3-8f04-4963-81a1-e4317ad11c10" />
 
 b. Halaman Detail dan Proses Adopsi (AdoptDetail.vue)
+
 Halaman ini adalah kelanjutan dari daftar adopsi, menampilkan informasi lengkap dan memulai proses ajuan adopsi.
 
-- Tombol Lihat detail:
-  terdapat di setiap card kucing untuk navigasi : ketika diklik, pengguna akan diarahkan ke halaman deskripsi detail spesifik kucing tersebut.
+- Tombol Lihat detail, terdapat di setiap card kucing untuk navigasi : ketika diklik, pengguna akan diarahkan ke halaman deskripsi detail spesifik kucing tersebut.
 - Galeri Foto Geser (Carousel) : di halaman detail, area foto kucing telah diimplementasikan sebagai galeri foto geser, memungkinkan pengguna melihat berbagai foto kucing (multifoto) yang tersedia.
 - Tombol Ajukan Adopsi : terdapat di halaman detail; ketika diklik pengguna akan diarahkan ke formulir adopsi yang berisi data diri, alasan adopsi, dan detail pembayaran. Setelah formulir dikirim, muncul notifikasi Formulir adopsi berhasil dikirim
 
@@ -83,13 +84,12 @@ b. Fitur “Langsung Check Out”
 
 a. Form Pelaporan Kucing Hilang
 
-Form Laporan Hilang: 
 Pengguna dapat melaporkan kucing yang hilang dengan mengisi:
 
-Data kucing (nama, jenis kelamin, ras, deskripsi fisik)
-Foto kucing (multiple upload)
-Lokasi dan waktu terakhir dilihat
-Informasi kontak pelapor
+- Data kucing (nama, jenis kelamin, ras, deskripsi fisik)
+- Foto kucing (multiple upload)
+- Lokasi dan waktu terakhir dilihat
+- Informasi kontak pelapor
 
 Form Pencarian: Fitur untuk mencari kucing yang dilaporkan hilang oleh orang lain
 <img width="1908" height="953" alt="image" src="https://github.com/user-attachments/assets/c468818a-7964-46ec-a8ad-60fcdec446cb" />
@@ -98,10 +98,10 @@ b. Sistem Pencarian Cerdas
 
 Filter Pencarian:
 
-Berdasarkan lokasi (radius tertentu)
-Berdasarkan karakteristik fisik (warna, ras, jenis kelamin)
-Berdasarkan waktu kejadian
-Search Results: Menampilkan daftar kucing yang sesuai dengan kriteria pencarian
+- Berdasarkan lokasi (radius tertentu)
+- Berdasarkan karakteristik fisik (warna, ras, jenis kelamin)
+- Berdasarkan waktu kejadian
+- Search Results: Menampilkan daftar kucing yang sesuai dengan kriteria pencarian
 
 <img width="1901" height="942" alt="image" src="https://github.com/user-attachments/assets/229bdb6f-7496-444f-8ccd-b9500b4ba98d" />
 <img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/4380bad2-6a19-4c5f-9aec-feb56c30c6e7" />
@@ -119,8 +119,10 @@ Informasi kontak pelapor (tersedia tombol hubungi)
 
 d. My Search Page - Pantau Status
 
-Dashboard Pribadi: Pengguna dapat memantau laporan kucing hilang mereka
+Dashboard Pribadi: Pengguna dapat memantau laporan kucing hilang mereka.
+
 Status Timeline: Visualisasi progress pencarian dengan 4 tahapan:
+
  - Dilaporkan - Laporan telah diterima sistem
  - Ditemukan - Ada laporan penemuan yang match
  - Dirawat - Kucing sedang dalam perawatan
