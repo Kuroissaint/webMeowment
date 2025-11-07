@@ -45,8 +45,6 @@ Halaman ini adalah kelanjutan dari daftar adopsi, menampilkan informasi lengkap 
 - Galeri Foto Geser (Carousel) : di halaman detail, area foto kucing telah diimplementasikan sebagai galeri foto geser, memungkinkan pengguna melihat berbagai foto kucing (multifoto) yang tersedia.
 - Tombol Ajukan Adopsi : terdapat di halaman detail; ketika diklik pengguna akan diarahkan ke formulir adopsi yang berisi data diri, alasan adopsi, dan detail pembayaran. Setelah formulir dikirim, muncul notifikasi Formulir adopsi berhasil dikirim
 
-# meowment-website
-
 **3. Donate**
 
 a. Form Pengisian Donasi 
