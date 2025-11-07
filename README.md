@@ -32,16 +32,17 @@ d. Halaman Detail Laporan
 **2. Adopsi Kucing**
 
 a. Tampilan Daftar Kucing Adopsi (AdoptPage.vue)
+
 Halaman ini berfungsi sebagai direktori utama adopsi dan berhasil menampilkan data kucing dalam format card.
 - Daftar Kucing : setiap kucing ditampilkan dalam card yang menyajikan informasi foto kucing, nama, umur, dan lokasi.
 - Tombol Ajukan kucing untuk adopsi : di bagian header sudah berfungsi, dan ketika diklik pengguna akan diarahkan ke formulir pendaftaran kucing yang berisi data-data yang harus diisi.
 - Alur Pengajuan Kucing : setelah mengisi form, ketika tombol Kirim Pengajuan ditekan maka akan muncul notifikasi Form pengajuan berhasil dikirim.
 
 b. Halaman Detail dan Proses Adopsi (AdoptDetail.vue)
+
 Halaman ini adalah kelanjutan dari daftar adopsi, menampilkan informasi lengkap dan memulai proses ajuan adopsi.
 
-- Tombol Lihat detail:
-  terdapat di setiap card kucing untuk navigasi : ketika diklik, pengguna akan diarahkan ke halaman deskripsi detail spesifik kucing tersebut.
+- Tombol Lihat detail, terdapat di setiap card kucing untuk navigasi : ketika diklik, pengguna akan diarahkan ke halaman deskripsi detail spesifik kucing tersebut.
 - Galeri Foto Geser (Carousel) : di halaman detail, area foto kucing telah diimplementasikan sebagai galeri foto geser, memungkinkan pengguna melihat berbagai foto kucing (multifoto) yang tersedia.
 - Tombol Ajukan Adopsi : terdapat di halaman detail; ketika diklik pengguna akan diarahkan ke formulir adopsi yang berisi data diri, alasan adopsi, dan detail pembayaran. Setelah formulir dikirim, muncul notifikasi Formulir adopsi berhasil dikirim
 
