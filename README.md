@@ -1,4 +1,4 @@
-# meowment-website
+## meowment-website
 
 **1. Rescue**
 
@@ -131,6 +131,41 @@ Status Timeline: Visualisasi progress pencarian dengan 4 tahapan:
 Photo Gallery: Koleksi foto kucing yang dilaporkan
 <img width="1900" height="948" alt="image" src="https://github.com/user-attachments/assets/9ea9faa9-a3a5-4152-8617-b19f4492f6dd" />
 
+## Button Yang Sudah Terconnect
 
-    
+**Navbar**
+
+- Semua button terconnect
+
+**Rescue Page**
+
+- Tombol Kirim Laporan --> Form Lapor Kucing Hilang
+- Laporan Anda --> Menampilkan laporan yang telah dibuat
+- Button selengkapnya --> Menampilkan modal pop up Detail Kucing
+
+**Search Page**
+
+- Tombol *Laporan Anda* --> Menampilkan Detail laporan yang dikirim beserta statusnya
+- Tag Search Dropdown --> Menampilkan tag statis untuk memfilter list kucing
+- Tombol *Buat Laporan* --> Menuju Form Laporan Kehilangan Kucing
+- Tombol *Selengkapnya* --> Menampilkan pop up modal detail dari kucing
+
+**Adopt Page**
+
+- Tombol *Ajukan Kucing Untuk Adopsi* --> Menuju form untuk mengajukan kucing untuk Adopsi
+- Tombol *Lihat Detail* --> Menampilkan page Detail dari kucing yang ingin diadopsi
+- Tombol *Ajukan Adopsi* di dalam page *Detail Adopsi* --> Menuju Form untuk pengajuan Adopsi
+
+**Donate**
+
+- Tombol *Batalkan* --> Untuk kembali ke landing page
+- Tombol *Langsung Check Out* --> Menuju laman pembayaran
+- Setelah mengisi data di laman Check Out (Bisa menggunakan data asal) klik *Simulasikan Pembayaran* --> Menampilkan Invoice pembayaran
+
+**Login Page & Register Page**
+
+<img width="1902" height="943" alt="image" src="https://github.com/user-attachments/assets/e4876d4c-8748-43de-815e-d320a1d6b4bf" />
+<img width="1904" height="950" alt="image" src="https://github.com/user-attachments/assets/434a9cb0-0ffa-4159-8d8b-22bd21abd62f" />
+
+- Setelah mengisi data dapat menekan tombol *Daftar* atau *Login* untuk kembali ke landing page dan menampilkan nama yang terdaftar (Bisa Logout)
    
