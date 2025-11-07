@@ -70,10 +70,10 @@ a. Form Pelaporan Kucing Hilang
 Form Laporan Hilang: 
 Pengguna dapat melaporkan kucing yang hilang dengan mengisi:
 
-Data kucing (nama, jenis kelamin, ras, deskripsi fisik)
-Foto kucing (multiple upload)
-Lokasi dan waktu terakhir dilihat
-Informasi kontak pelapor
+- Data kucing (nama, jenis kelamin, ras, deskripsi fisik)
+- Foto kucing (multiple upload)
+- Lokasi dan waktu terakhir dilihat
+- Informasi kontak pelapor
 
 Form Pencarian: Fitur untuk mencari kucing yang dilaporkan hilang oleh orang lain
 
@@ -81,20 +81,20 @@ b. Sistem Pencarian Cerdas
 
 Filter Pencarian:
 
-Berdasarkan lokasi (radius tertentu)
-Berdasarkan karakteristik fisik (warna, ras, jenis kelamin)
-Berdasarkan waktu kejadian
-Search Results: Menampilkan daftar kucing yang sesuai dengan kriteria pencarian
+- Berdasarkan lokasi (radius tertentu)
+- Berdasarkan karakteristik fisik (warna, ras, jenis kelamin)
+- Berdasarkan waktu kejadian
+- Search Results: Menampilkan daftar kucing yang sesuai dengan kriteria pencarian
 
 c. Halaman Detail Kucing
 
 Informasi Lengkap:
 
-Multiple foto kucing dari berbagai angle
-Deskripsi detail dan ciri-ciri khusus
-Timeline perkiraan waktu hilang
-Informasi kontak pelapor (tersedia tombol hubungi)
-Status Tracking: Fitur untuk melacak status pencarian kucing
+- Multiple foto kucing dari berbagai angle
+- Deskripsi detail dan ciri-ciri khusus
+- Timeline perkiraan waktu hilang
+- Informasi kontak pelapor (tersedia tombol hubungi)
+- Status Tracking: Fitur untuk melacak status pencarian kucing
 
 d. My Search Page - Pantau Status
 
