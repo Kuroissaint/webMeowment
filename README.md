@@ -67,7 +67,6 @@ b. Fitur “Langsung Check Out”
 
 a. Form Pelaporan Kucing Hilang
 
-Form Laporan Hilang: 
 Pengguna dapat melaporkan kucing yang hilang dengan mengisi:
 
 - Data kucing (nama, jenis kelamin, ras, deskripsi fisik)
